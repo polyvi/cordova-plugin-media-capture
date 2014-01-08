@@ -1,4 +1,4 @@
-﻿/*  
+/*  
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
 	You may obtain a copy of the License at
@@ -74,6 +74,7 @@ namespace WPCordovaClassLib.Cordova.UI
 
                 root.Navigated += new System.Windows.Navigation.NavigatedEventHandler(NavigationService_Navigated);
 
+                string baseUrl = "/";
                 // dummy parameter is used to always open a fresh version
                 root.Navigate(new System.Uri("/Plugins/org.apache.cordova.media-capture/VideoRecorder.xaml?dummy=" + Guid.NewGuid().ToString(), UriKind.Relative));
             });
