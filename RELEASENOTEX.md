@@ -35,3 +35,31 @@
  *  [CB-5565] Updated version and RELEASENOTES.md for release 0.2.5
  *  Fix issue #2 that the captured video can't be played on iPad
  *  sync cordova-mobile-spec test into cordova-plugin-media-capture
+
+
+## 0.2.8 (Tue Apr 29 2014)
+
+
+ *  CB-6452 Updated version and RELEASENOTES.md for release 0.3.0
+ *  CB-6460: Update license headers
+ *  CB-6152: Make mediafile compatible with file plugin
+ *  CB-6385: Specify file plugin dependency version
+ *  CB-6212 iOS: fix warnings compiled under arm64 64-bit
+ *  CB-6016 [BlackBerry10] Add audio capture capability
+ *  CB-6212 iOS: fix warnings compiled under arm64 64-bit
+ *  Add rim xml namespaces declaration
+ *  Add NOTICE file
+ *  CB-6114 Updated version and RELEASENOTES.md for release 0.2.8
+ *  Add NOTICE file
+ *  CB-6114 Incremented plugin version on dev branch.
+ *  CB-6114 Updated version and RELEASENOTES.md for release 0.2.8
+ *  CB-5202 fix from lubogospod
+ *  CB-5980 Incremented plugin version on dev branch.
+ *  CB-5980 Updated version and RELEASENOTES.md for release 0.2.7
+ *  [ubuntu] request audio/camera/microphone permission
+ *  [ubuntu] add missing file
+ *  Delete stale test/ directory
+ *  CB-6422 [windows8] use cordova/exec/proxy
+ *  fixed cordova cli add capture plugin not work wp
+ *  fixed  cordova cli add capture plugin not work wp
+ *  CB-5685 [BlackBerry10] Add access_shared permission
